@@ -1,0 +1,36 @@
+ThisCrackLicenseId-{
+"licenseId":"ThisCrackLicenseId",
+"licenseeName":"Candy",
+"assigneeName":"",
+"assigneeEmail":"Candy@qq.com",
+"licenseRestriction":"For This Crack, Only Test! Please support genuine!!!",
+"checkConcurrentUse":false,
+"products":[
+{"code":"II","paidUpTo":"2099-12-30"},
+{"code":"DM","paidUpTo":"2099-12-30"},
+{"code":"AC","paidUpTo":"2099-12-30"},
+{"code":"RS0","paidUpTo":"2099-12-30"},
+{"code":"WS","paidUpTo":"2099-12-30"},
+{"code":"DPN","paidUpTo":"2099-12-30"},
+{"code":"RC","paidUpTo":"2099-12-30"},
+{"code":"PS","paidUpTo":"2099-12-30"},
+{"code":"DC","paidUpTo":"2099-12-30"},
+{"code":"RM","paidUpTo":"2099-12-30"},
+{"code":"CL","paidUpTo":"2099-12-30"},
+{"code":"PC","paidUpTo":"2099-12-30"}
+],
+"hash":"2911276/0",
+"gracePeriodDays":7,
+"autoProlongated":false}
+
+
+[target.x86_64-pc-windows-gnu]
+linker = "C:\\msys64\\mingw64\\bin\\gcc.exe"
+ar = "C:\\msys2\\mingw64\\bin\\ar.exe"
+
+mirrors.neusoft.edu.cn 80
+
+Force https://... sources to be fetched using http://...¡¹¸´Ñ¡¿ò
+
+
+http://mirrors.ustc.edu.cn/eclipse/technology/epp/downloads/release/
